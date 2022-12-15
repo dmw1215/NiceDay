@@ -1,0 +1,2 @@
+# NiceDay
+ Quantumult X
