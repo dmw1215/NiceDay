@@ -1,0 +1,235 @@
+#脚本功能：解锁订阅软件合集
+#下载地址：国区——美区
+#软件版本：老版本以及新版本
+#脚本作者：D
+#更新时间：2022-11-19
+#使用声明：此脚本仅供学习与交流，请勿转载与贩卖！
+#食用：复制到配置文件[rewrite_remote]下
+
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mtxx.js, tag=美图秀秀+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/myxj.js, tag=美颜相机+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qyxj.js, tag=轻颜相机+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ytxj.js, tag=一甜相机+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bj.js, tag=B612咔叽+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/360xj.js, tag=相机360-彩色碎片+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hy.js, tag=黄油相机+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pixelmator.js, tag=Pixelmator Photo+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lightroom.js, tag=Lr Adobe Lightroom+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Photoshop.js, tag=Photoshop Express +解锁高级用户, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsew.js, tag=Picsew滚动截图+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/vsco.js, tag=VSCO:照片编辑+恢复订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wps.js, tag=WPS Office+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/CDAkskt.js, tag=CAD快速看图+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/duitang.js, tag=堆糖-爱豆壁纸美图社区+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/KLBZ.js, tag=克拉壁纸+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xyjsq.js, tag=迅游手游加速器+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zymk.js, tag=知音漫客+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/https.js, tag=HTTPS抓包+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gear.js, tag=gear浏览器插件+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/stsq.js, tag=搜图神器+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/upp.js, tag=PrettyUp视频美化+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ly.js, tag=来音智能陪练+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyxc.js, tag=幻影相册+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noteb.js, tag=Noted-录音笔记+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xmind.js, tag=XMind思维导图+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wjglq.js, tag=文件管理器+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/blocker.js, tag=1blocker+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/old.js, tag=old roll复古相机+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Proknockout.js, tag=Proknockout扣图神器+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mgtv.js, tag=美队tv（18+）+解锁VIP会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/rq.js, tag=如期-扫码记录保质期+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cubox.js, tag=Cubox-收藏阅读+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pro.js, tag=Launch Center Pro+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Grow.js, tag=Grow - 你的健康+恢复订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Notability.js, tag=Notability +解锁订阅【老版本】, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ttjz.js, tag=图图记账+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jxydt.js, tag=驾校一点通+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smqnw.js, tag=扫描全能王 +解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pandora.js, tag=Pandora-管理你的订阅+恢复订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/arqt.js, tag=傲软抠图-专业图片+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/arpdf.js, tag=傲软PDF编辑+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/artp.js, tag=傲软投屏-+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qnhb.js, tag=青柠海报设计+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ceo.js, tag=CEO周课+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Apollo.js, tag=Apollo-记录你的影视生活, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bytq.js, tag=白云天气-感知自然呼吸+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MoneyThings.js, tag=MoneyThings—记账+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Scanner.js, tag=Scanner pro+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xt.js, tag=醒图+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xzj.js, tag=熊掌记- Markdown+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zmzjz.js, tag=最美证件照+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/aihlx.js, tag=AI换脸秀+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ksyzkt.js, tag=快手小程序+易知课堂+解锁观看, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fileball.js, tag=fileball+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mdsz.js, tag=谜底时钟 +解锁订阅可以解锁全家桶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/documents.js, tag=documents+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Chic.js, tag=Chic-Stylish Camera+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fin.js, tag=Fin -预算与开销追踪+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Sorted.js, tag=Sorteds - 日历+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mbdt.js, tag=目标地图+解锁订阅可以解锁全家桶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/pandavip.js, tag=Panda Widget+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kwyy.js, tag=酷我音乐+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wyydcd.js, tag=网易有道词典+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Planny.js, tag=Planny • 智能待办+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/widgets.js, tag=万能小组件 - TopWidgets +解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pillow.js, tag=Pillow睡眠周期跟踪器+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/PDFExpert.js, tag=PDF—Expert点睛+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/thsp.js, tag=探花视频+解锁VIP—9.27更新, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ptyxj.js, tag=拼图鸭相机-解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ptj.js, tag=拼图酱+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Varlens.js, tag=Varlens 微单相机+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Focos.js, tag=Focos+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Symbolab.js, tag=Symbolab计算器 +解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MolyCam.js, tag=MolyCam+解锁PRO, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/baimiao.js, tag=白描-OCR 文字识别+解锁黄金会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/NotBoring.js, tag=Not Boring +解锁订阅可以解锁全家桶四件套, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jjyc.js, tag=尽简衣橱+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yywnds.js, tag=网易蜗牛读书+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/txwxds.js, tag=微信读书+无限卡会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xiangrikui.js, tag=向日葵阅读+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/boshangxiaomai.js, tag=博商小麦+解锁会员内容, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/egdd.js, tag=儿歌点点+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ypjjtq.js, tag=音频剪辑提取+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Wink.js, tag=Wink-像修图一样修视频+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/EFEKT.js, tag=EFEKT美易一视频特效+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/photoGrid.js, tag=photoGrid-照片拼图+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xiaoyin.js, tag=小影-视频剪辑制作+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/MIX.js, tag=MiX滤镜大师+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wsgj.js, tag=网速管家+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wscsds.js, tag=网速测试大师+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Pixelance.js, tag=Pixelance Al照片修复+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yzscq.js, tag=印章生成器+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/abushuiqiangushi.js, tag=阿布睡前故事+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mksp.js, tag=米克锁屏+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Quike.js, tag=全能小组件- Quike+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ColorfulWidget.js, tag=Colorful—Widget+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/widgetSmith.js, tag=Widgetsmith+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lovePdf.js, tag=LovepDF-PDF+解锁订阅阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/vision.js, tag=vision-个人OKR目标+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Memrise.js, tag=Memrise跟忆术家学语言+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qj.js, tag=钱迹-存钱记账小能手+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/darkroom.js, tag=Darkroom：照片和视频编辑器+解锁, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fabulous.js, tag=Fabulous每日动力泉源+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xunlei.js, tag=迅雷-你的专享云盘+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/iTranslate.js, tag=iranslate 翻译+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smbq.js, tag=闪萌表情-解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/91tv.js, tag=91视频(TF版)+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qzzvip.js, tag=趣制作-视频剪辑+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zjbj.js, tag=指尖笔记+解锁永久VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Nicegrampro.js, tag=Nicegram: Unlimited Text+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jssmy.js, tag=极速扫描仪+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mubu.js, tag=幕布-大纲笔记+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dzqjzz.js, tag=电子请柬制作+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qmzj.js, tag=奇妙组件+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kprj.js, tag=卡片日记+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ColorWidgets.js, tag=Color Widgets+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mklwt.js, tag=马卡龙玩图 +解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/sc.js, tag=色采 -配色助手+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/percento.js, tag=percento-轻松管理你的资产+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Retake.js, tag=Retake-Al照片修复+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/flomo.js, tag=flomo 浮墨-卡片笔记+解锁pro, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Motivation.js, tag=Motivation-Daily quotes+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/WidgetArt.js, tag=WidgetArt-自定义桌面小组件+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Usage.js, tag=Usage: System+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/PDFViewer.js, tag=PDF Viewer Pro+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/SparkMail.js, tag=Spark Mail-智能邮箱+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/sjyjgj.js, tag=手机硬件管家+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Now.js, tag=Now冥想-助眠白噪音乐+解锁VIP内容, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hlzz.js, tag=航旅追踪+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cpdq.js, tag=菜谱大全+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ypjj.js, tag=音频剪辑- 音乐剪辑大师+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/noto.js, tag=Noto 笔记+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smxcgj.js, tag=私密相册管家+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/AAnybox.js, tag=AAnybox -跨平台书签管理+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ljtq.js, tag=莉景天气+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Lingokids.js, tag=Lingokids 儿童英语+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Busuu.js, tag=博树 Busuu-+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Emote.js, tag=Emote - 聊天式笔记+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/llsyd.js, tag=流利说·阅读+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/CARROTWeather.js, tag=CARROT Weather+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ddqd.js, tag=滴答清单+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Seven.conf, tag=7分钟HIT运动+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Drafts.js, tag=Drafts——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zjsg.js, tag=指尖时光-目标打卡——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ddsyxj.conf, tag=叮叮水印相机——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Craft.js, tag=Craft - 文件及笔记编辑器——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/Eric/effie.conf, tag=Effie - 沉浸写作——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/lgzj.js, tag=灵敢足迹——解锁高级会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Todo.js, tag=Todo清单+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bdwk.js, tag=百度文库☆解锁VIP文档阅读权限, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jkyd.js, tag=即刻运动+解锁视频购买权限, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/FitnessView.js, tag=FitnessView•健康仪表板—解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/keep.js, tag=Keep -跑步健身——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dayone.js, tag=Day One 日记＋笔记——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bgjj.js, tag=不咕剪辑+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Agenda.js, tag=Agenda.+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ttd.js, tag=天天豆 - 最简单的日记——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/VCUS.js, tag=vCUS- 音乐节奏视频+解锁pro, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ego.js, tag=Ego Reader - RSS阅读器+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wfzy.js, tag=悟饭掌悦-发现乐趣经典+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yk.js, tag=咖映-虛拟直播助手+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/umu168.js, tag=唔姆(解锁下载), update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ltXzj.js, tag=乃糖小组件+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ysyk.js, tag=一书一课+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gql.js, tag=过期啦——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fyjh.js, tag=飞鱼计划+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zt.js, tag=佐糖-一键抠图+解锁VIP可解锁全家桶, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qwtodo.js, tag=青蛙 Todo-+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/bmhb.js, tag=斑马海报+解锁终身会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/AnkiNote.js, tag=Anki Note——解锁永久订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/memoryhelper.js, tag=memory helper+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hzk.js, tag=汇中考——解锁会员, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyzm.js, tag=绘影字幕-+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ymjz.js, tag=一木记账+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/HX.js, tag=幻休-睡眠记录——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xzjhz.js, tag=小组件盒子——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/AVOD.js, tag=AVOD- 边下载边播放+解锁内购, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/cdzs.js, tag=充电助手-+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/chxm1023/script/main/Rewrite/yunting.js, tag=云听解锁付费+精品, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Tangerine.js, tag=Tangerine——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wnbsq.js, tag=万能变声器——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Lifeviewer.js, tag=Lifeviewer-每日计划——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/APTV.js, tag=APTV-+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/gzrz.js, tag=格志日记+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dsj.js, tag=电视家+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/sssp.js, tag=涩涩视频——去除所有广告, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsart.js, tag=Picsart 美易——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Watchoutc.js, tag=Watchout 小组件——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Endel.js, tag=Endel: Focus, Sleep,+解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hsfs.js, tag=好事发生+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/vivacut.js, tag=vivacut - 专业级视频+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/whqsy.js, tag=无痕去水印——解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kp.js, tag=可拍 - Al换脸变装视频—解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/JX.js, tag=简讯——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/yjhl.js, tag=一键换脸——解锁VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ubestkid.js, tag=贝乐虎全家桶——解锁VIP内容, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xcz.js, tag=西窗烛——解锁高级会员, update-interval=172800, opt-parser=true, enabled=true
+
+
+#Game
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/sgqmx.js, tag=三国全明星+无限兑换, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/xbbxz.js, tag=小兵别嚣张+无限钻石和金币材料, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/ttdy.js, tag=微信小游戏天天钓鱼+解锁无限金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/xmbd.js , tag=消灭病毒+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/dlbxz.js, tag=大佬别嚣张+无限金币钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/tddxc.js, tag=土豆地下城+无限钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/xmct.js, tag=熊猫餐厅+无限竹子珍珠, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/zwfjz.js, tag=植物反击战+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/fdmlq.js, tag=房东模拟器+无限钞票钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/djdzz.js, tag=刀剑大作战+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/jzqsk.js, tag=进站请刷卡+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/sgcyj.js, tag=三国创业记+无限钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Annual.js, tag=年轮3- 艾宾浩斯+解锁订阅, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/szlr.js, tag=骰子猎人+解锁无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mzbdgs.js, tag=买怪打装备+无限兑换钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/fkxxx.js, tag=疯狂消消消+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyrz.js, tag=荒野日记—孤岛+无限贝壳, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/dxcgc.js, tag=地下城割草+ 无限钻石和金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/csxd.js, tag=超神小队——解锁无限金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/ssdl.js, tag=射手大陆—9999装备等级, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/ctlyy.js, tag=超脱力医院——解锁9999, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/sxk.js, tag=史小坑的花前月下+无限钻石, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/mshxq.js, tag=喵桑活下去+无限钻石金币体力, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/mj.js, tag=魔君+无敌秒杀, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/sgsfz.js, tag=神弓守护者+无限钻石金币, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/skdy.js, tag=实况钓鱼+无限金币, update-interval=172800, opt-parser=true, enabled=true
